@@ -5,3 +5,5 @@
 
 #Agregamos un segundo bloque
 #para visualizar los cambios
+
+int i=0
